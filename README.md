@@ -6,6 +6,10 @@
 
 **Core Value:** A colorscheme that feels like hacking from inside a Vault-Tec terminal — amber phosphor dominates, Matrix green punctuates, and every highlight group serves readability over decoration.
 
+## Demo
+
+![demo](assets/demo.png)
+
 ## Install
 
 ```lua
